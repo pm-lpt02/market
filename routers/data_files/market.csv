@@ -1,0 +1,20 @@
+Name,Abbreviation,Country,City,Open,Close
+New York Stock Exchange,NYSE,USA,New York,9:30,16:00
+Nasdaq,NAS,USA,New York,9:30,16:00
+Hong Kong Stock Exchange,HKG,China,Hong Kong,9:30,16:00
+Shanghai Stock Exchange,SHG,China,Shanghai,9:30,15:00
+Japan Exchange Group,JPX,Japan,Tokyo,9:00,15:00
+Euronext,,Euorpe,Brussels,9:00,17:30
+Shenzhen Stock Exchange,SHE,China,Shenzhen,9:30,15:00
+London Stock Exchange,LON,United Kingdom,London,8:00,18:30
+Bombay Stock Exchange,BOM,India,Mumbai,9:15,15:30
+National Stock Exchange,NSE,India,Mumbai,9:15,15:30
+Toronto Stock Exchange,TSE,Canada,Toronto,9:30,15:00
+Tadawul,SAU,Saudi Arabia,Riyadh,10:00,15:00
+Deutsche Borse,FRA,Germany,Frankfurt,8:00,22:00
+Korea Exchange,KOS,South Korea,Seoul,9:00,15:30
+Nasdaq Nordic Exchanges,,Euorpe,,,
+SIX Swiss Exchange,SWX,Switzerland,Zurich,9:00,17:30
+Taiwan Stock Exchange,TAI,Taiwan,Taipei,9:00,13:30
+Australian Securities Exchange,ASX,Australia,Sydney,10:00,16:00
+JSE,JSE,South Africa,Johannesburg,9:00,17:00

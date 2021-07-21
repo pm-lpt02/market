@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+SQLAlchemy
+pydantic
+databases[postgresql]
+psycopg2-binary
+python-multipart
+python-dotenv

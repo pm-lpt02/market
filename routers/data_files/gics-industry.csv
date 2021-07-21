@@ -1,0 +1,71 @@
+IndustryId,Industry,IndustryGroup
+101010,Energy Equipment & Services,Energy
+101020,"Oil, Gas & Consumable Fuels",Energy
+151010,Chemicals,Materials
+151020,Construction Materials,Materials
+151030,Containers & Packaging,Materials
+151040,Metals & Mining,Materials
+151050,Paper & Forest Products,Materials
+201010,Aerospace & Defense,Capital Goods
+201020,Building Products,Capital Goods
+201030,Construction & Engineering,Capital Goods
+201040,Electrical Equipment,Capital Goods
+201050,Industrial Conglomerates,Capital Goods
+201060,Machinery,Capital Goods
+201070,Trading Companies & Distributors,Capital Goods
+202010,Commercial Services & Supplies,Commercial & Professional Services
+202020,Professional Services,Commercial & Professional Services
+203010,Air Freight & Logistics,Transportation
+203020,Airlines,Transportation
+203030,Marine,Transportation
+203040,Road & Rail,Transportation
+203050,Transportation Infrastructure,Transportation
+251010,Auto Components,Automobiles & Components
+251020,Automobiles,Automobiles & Components
+252010,Household Durables,Consumer Durables & Apparel
+252020,Leisure Products,Consumer Durables & Apparel
+252030,"Textiles, Apparel & Luxury Goods",Consumer Durables & Apparel
+253010,"Hotels, Restaurants & Leisure",Consumer Services
+253020,Diversified Consumer Services,Consumer Services
+255010,Distributors,Retailing
+255020,Internet & Direct Marketing Retail,Retailing
+255030,Multiline Retail,Retailing
+255040,Specialty Retail,Retailing
+301010,Food & Staples Retailing,Food & Staples Retailing
+302010,Beverages,"Food, Beverage & Tobacco"
+302020,Food Products,"Food, Beverage & Tobacco"
+302030,Tobacco,"Food, Beverage & Tobacco"
+303010,Household Products,Household & Personal Products
+303020,Personal Products,Household & Personal Products
+351010,Health Care Equipment & Supplies,Health Care Equipment & Services
+351020,Health Care Providers & Services,Health Care Equipment & Services
+351030,Health Care Technology,Health Care Equipment & Services
+352010,Biotechnology,"Pharmaceuticals, Biotechnology & Life Sciences"
+352020,Pharmaceuticals,"Pharmaceuticals, Biotechnology & Life Sciences"
+352030,Life Sciences Tools & Services,"Pharmaceuticals, Biotechnology & Life Sciences"
+401010,Banks,Banks
+401020,Thrifts & Mortgage Finance,Banks
+402010,Diversified Financial Services,Diversified Financials
+402020,Consumer Finance,Diversified Financials
+402030,Capital Markets,Diversified Financials
+402040,"Mortgage Real Estate Investment 
+ Trusts (REITs)",Diversified Financials
+403010,Insurance,Insurance
+451020,IT Services,Software & Services
+451030,Software,Software & Services
+452010,Communications Equipment,Technology Hardware & Equipment
+452020,"Technology Hardware, Storage & Peripherals",Technology Hardware & Equipment
+452030,"Electronic Equipment, Instruments & Components",Technology Hardware & Equipment
+453010,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment
+501010,Diversified Telecommunication Services,Telecommunication Services
+501020,Wireless Telecommunication Services,Telecommunication Services
+502010,Media,Media & Entertainment
+502020,Entertainment,Media & Entertainment
+502030,Interactive Media & Services,Media & Entertainment
+551010,Electric Utilities,Utilities
+551020,Gas Utilities,Utilities
+551030,Multi-Utilities,Utilities
+551040,Water Utilities,Utilities
+551050,Independent Power and Renewable Electricity Producers,Utilities
+601010,Equity Real Estate Investment Trusts (REITs),Real Estate
+601020,Real Estate Management & Development,Real Estate
