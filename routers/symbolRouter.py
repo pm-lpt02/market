@@ -58,3 +58,13 @@ def update(id: int, request: symbolSchema.Symbol, db: Session = Depends(get_db))
 @router.get('/{id}', status_code=status.HTTP_200_OK, response_model=symbolSchema.Symbol)
 def show(id: int, response: Response, db: Session = Depends(get_db)):
     return symbolRepository.show(id, db)
+
+
+@router.get('/{name}', status_code=status.HTTP_200_OK, response_model=symbolSchema.Symbol)
+def getsymbol(name: str, response: Response, db: Session = Depends(get_db)):
+    return symbolRepository.get_by_str(name, db)
+
+
+@router.get('/bind/{name}', status_code=status.HTTP_200_OK, response_model=symbolSchema.SymbolAPIJoin)
+def get_id_symbol(name: str, response: Response, db: Session = Depends(get_db)):
+    return  symbolRepository.get_by_str(name, db)

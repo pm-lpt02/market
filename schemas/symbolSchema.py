@@ -40,3 +40,9 @@ class SymbolUpdate(BaseModel):
 
     class Config():
         orm_mode = True
+
+
+class SymbolAPIJoin(IDModelMixin):
+    class Config():
+        orm_mode = True
+

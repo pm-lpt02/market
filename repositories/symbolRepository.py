@@ -60,3 +60,13 @@ def destroy(id: int, db: Session):
     db.commit()
     return 'done'
 
+
+def get_by_str(name: str, db: Session):
+    symbol = db.query(Symbol).filter(Symbol.symbol == name).first()
+    if not symbol:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail=f"Symbol: {name} not found, if you wish to track please add"
+        )
+    return symbol
+
